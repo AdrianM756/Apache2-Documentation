@@ -1,3 +1,6 @@
+![image](https://httpd.apache.org/images/httpd_logo_wide_new.png)
+<br>
+<br>
 ## Installation
 
 To install **Apache2** on our **Ubuntu** machine, input the following commands on the terminal:
